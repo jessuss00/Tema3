@@ -7,7 +7,7 @@ public class Diapositiva9 {
 	public static void main(String[] args) {
 		Scanner ac = new Scanner(System.in);
 		
-		int n=1;
+		int n=0;
 		int suma=0;
 		while(n<=10) {
 			System.out.println("Dame un valor");
