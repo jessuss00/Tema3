@@ -1,4 +1,4 @@
-package Tema3_jmg;
+package tema3JMG;
 
 import java.util.Scanner;
 
