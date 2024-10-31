@@ -8,7 +8,7 @@ public class Actividad1JMG {
 		Scanner ac = new Scanner(System.in);
 		
 		System.out.println("Dime una cadena:");
-		String cadena =ac.next();
+		String cadena =ac.nextLine();
 		String cadenaFinal="";
 		
 		
