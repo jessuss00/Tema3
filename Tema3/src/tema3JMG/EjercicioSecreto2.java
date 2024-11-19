@@ -23,11 +23,11 @@ public class EjercicioSecreto2 {
 			
 			
 		} while (contrasenna!=combi&&contador<4);
-		if (contrasenna==combi&&contador<4) {
+		if (contrasenna==combi ) {
 			System.out.println("Entre");
-		}else {
+		}else if (contador>4) {
 			System.out.println("Agotado fallos");
-		}
+		} 
 		
 		
 	}
